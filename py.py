@@ -1,14 +1,3 @@
-username = 'Polly1220'
-
-password = 'Bob'
-
-userInput = input("What is your username?\n")
-
-if userInput == username:
-    a=input("Password?\n")   
-    if a == password:
-        print("Welcome!")
-    else:
-        print("That is the wrong password.")
-else:
-    print("That is the wrong username.")
+z = 4
+if z % 2 == 0
+print("z is even")
