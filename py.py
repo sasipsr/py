@@ -2,7 +2,7 @@ username = 'Polly1220'
 
 password = 'Bob'
 
-input = 'password'
+userInput = input("What is your username?\n")
 
 if userInput == username:
     a=input("Password?\n")   
